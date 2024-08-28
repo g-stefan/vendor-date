@@ -1,0 +1,16 @@
+{
+	"solution": {
+		"name" : "vendor-date",
+		"type" : "xyo-cpp",
+		"projects": [
+			{
+				"name" : "date",
+				"SPDX-License-Identifier": "MIT",
+				"sourceLink" : "https://github.com/HowardHinnant/date",
+				"version" : "3.0.1",
+				"noVersion" : true
+			}
+		],
+		"releaseName" : "date"
+	}
+}
